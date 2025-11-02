@@ -1,0 +1,2 @@
+UndergroundCrypt,-3496,-3482,-1028,-1000
+ClayWaterMound1,-3329,-3319,-1015,-1004

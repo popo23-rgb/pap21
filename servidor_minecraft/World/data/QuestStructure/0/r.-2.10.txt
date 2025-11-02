@@ -1,0 +1,12 @@
+RLCraft_DecentCaveSpider,-1030,-1030,5211,5211
+RLCraft_UndergroundRuin3,-1035,-1027,5205,5213
+DinosaurSkull,-1060,-1041,5254,5265
+StoneBoulder,-1084,-1075,5286,5295
+StoneLeafMound,-1180,-1171,5153,5160
+StonePlantMound2,-1094,-1081,5328,5340
+ShrineSmallFire,-1142,-1132,5359,5369
+RLCraft_BasicWitch,-1219,-1219,5280,5280
+RLCraft_UndergroundRuin1,-1225,-1216,5274,5283
+IceThorn,-1235,-1220,5363,5389
+RLCraft_UndergroundFarm,-1109,-1067,5366,5409
+WoodWallRemains,-1271,-1263,5129,5157

@@ -1,0 +1,7 @@
+RLCraft_SmallUndergroundSkeleton,4004,4012,1991,1999
+P_WizardTower,3975,4005,1967,1997
+RLCraft_SmallUndergroundSkeleton,3915,3923,1891,1899
+StonePlantMound3,4003,4014,1753,1762
+RLCraft_SmallUndergroundSkeleton,4068,4076,1762,1770
+StoneLeafMound,3868,3877,1768,1775
+StoneLeafMound,3942,3949,1672,1681

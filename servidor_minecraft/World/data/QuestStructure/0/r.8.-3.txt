@@ -1,0 +1,3 @@
+DinosaurSkeleton,4561,4607,-1881,-1872
+RLCraft_DecentWitch,4570,4570,-1977,-1977
+RLCraft_UndergroundRuin2,4565,4572,-1982,-1972

@@ -1,0 +1,2 @@
+BlazeSpawnerCrystal,4592,4598,417,423
+StonePlantBoulder,4111,4121,373,383

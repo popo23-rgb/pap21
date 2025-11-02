@@ -1,0 +1,5 @@
+WoodThornBig,-960,-947,5064,5077
+DinosaurSkeleton,-941,-895,5108,5117
+StonePlantMound2,-901,-889,5047,5060
+StonePlantMound,-922,-917,5041,5046
+StonePlantMound3,-857,-848,5028,5039

@@ -1,0 +1,6 @@
+StonePlantMound,263,268,4150,4155
+StonePlantMound3,250,259,4207,4218
+UndergroundCultChamber,405,447,4142,4174
+StonePlantMound2,426,439,4100,4112
+StonePlantMound3,204,215,4224,4233
+StonePlantBoulder,185,195,4245,4255

@@ -1,0 +1,5 @@
+StoneBoulder,-3589,-3580,-1163,-1154
+DinosaurSkull,-3598,-3587,-1124,-1105
+StoneLeafMound,-3593,-3586,-1244,-1235
+StonePlantMound1,-3625,-3619,-1216,-1210
+StoneBoulder,-3619,-3610,-1300,-1291

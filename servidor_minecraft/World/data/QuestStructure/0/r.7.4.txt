@@ -1,0 +1,6 @@
+StonePlantMound2,3597,3609,2531,2544
+StonePlantMound2,3629,3642,2533,2545
+RLCraft_DecentZombie,4065,4065,2536,2536
+RLCraft_UndergroundRuin2,4060,4070,2534,2541
+DinosaurSkull,3934,3953,2077,2088
+RLCraft_RuinsParkour,3941,4033,2050,2150

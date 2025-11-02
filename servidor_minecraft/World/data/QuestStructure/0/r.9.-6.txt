@@ -1,0 +1,2 @@
+CorruptedEnderTree,4822,4833,-3563,-3550
+ShrineSmallAir,4806,4814,-3368,-3360

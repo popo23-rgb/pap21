@@ -1,0 +1,4 @@
+ClayWaterMound1,-2630,-2620,-4308,-4297
+MeteorSite,-2618,-2603,-4362,-4332
+DinosaurSkull,-2616,-2597,-4156,-4145
+StonePlantMound2,-2766,-2753,-4334,-4322

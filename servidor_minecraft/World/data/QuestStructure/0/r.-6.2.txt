@@ -1,0 +1,14 @@
+StoneIceBoulder1,-3242,-3232,1132,1142
+RLCraft_BasicZombie,-3218,-3218,1149,1149
+RLCraft_UndergroundRuin1,-3224,-3215,1143,1152
+StoneIceBoulder1,-3319,-3309,1073,1083
+RLCraft_LargeUndergroundTown,-3377,-3264,971,1108
+StoneIceBoulder3,-3161,-3151,1108,1118
+RLCraft_SmallUndergroundSkeleton,-3235,-3227,1178,1186
+StoneIceBoulder,-3133,-3124,1032,1042
+P_WizardTower,-3098,-3068,1114,1144
+MeteorSite,-3152,-3122,1202,1217
+RLCraft_DecentSpider,-3280,-3280,1260,1260
+RLCraft_UndergroundRuin2,-3285,-3278,1255,1265
+SmallWoodenCottage,-3111,-3100,1270,1278
+StoneIceBoulder,-3108,-3098,1294,1303

@@ -1,0 +1,10 @@
+P_WitchDungeon,-2564,-2530,-3749,-3732
+P_DesertDungeon,-2412,-2359,-4085,-4033
+RLCraft_SmallUndergroundSkeleton,-2449,-2441,-4009,-4001
+VillageGuardTower,-2410,-2398,-3754,-3742
+RLCraft_SmallUndergroundSkeleton,-2152,-2144,-3963,-3955
+RLCraft_SmallUndergroundSkeleton,-2242,-2234,-4094,-4086
+RLCraft_DecentSpider,-2349,-2349,-3912,-3912
+RLCraft_UndergroundRuin3,-2352,-2344,-3918,-3910
+DinosaurSkeleton,-2112,-2103,-3684,-3638
+DinosaurSkull,-2064,-2053,-3747,-3728

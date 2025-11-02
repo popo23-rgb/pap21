@@ -1,0 +1,7 @@
+StonePlantBoulder,-963,-953,5234,5244
+StonePlantBoulder,-959,-949,5260,5270
+RLCraft_SmallUndergroundSkeleton,-984,-976,5292,5300
+StonePlantMound3,-862,-851,5157,5166
+StoneBoulder,-849,-840,5132,5141
+SmallAbandonedMine,-1019,-994,5362,5377
+StonePlantMound2,-946,-933,5423,5435

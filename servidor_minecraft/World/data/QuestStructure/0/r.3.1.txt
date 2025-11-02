@@ -1,0 +1,3 @@
+ShrineSmallAir,1961,1969,570,578
+ShrineSmallWater,1994,2002,639,647
+ShrineSmallWater,1848,1856,584,592

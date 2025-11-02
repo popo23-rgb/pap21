@@ -1,0 +1,4 @@
+StonePlantMound4,3506,3513,2639,2646
+SmallAbandonedOutpost,3449,3479,2671,2693
+StoneBoulder,3495,3504,2696,2705
+StonePlantMound,3473,3478,2718,2723

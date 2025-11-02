@@ -1,0 +1,8 @@
+StoneBoulder,3363,3372,2468,2477
+StoneBoulder,3444,3453,2450,2459
+StoneBoulder,3343,3352,2444,2453
+SmallWoodenCottage,3505,3516,2410,2418
+RLCraft_DecentCaveSpider,3300,3300,2432,2432
+RLCraft_UndergroundRuin2,3295,3305,2427,2434
+StoneLeafMound,3366,3373,2056,2065
+ShrineSmallWater,3448,3456,2342,2350

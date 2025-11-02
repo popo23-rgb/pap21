@@ -1,0 +1,3 @@
+StoneLeafMound,-440,-433,-3064,-3055
+StoneLeafMound,-490,-481,-3024,-3017
+StoneBoulder,-459,-450,-3011,-3002

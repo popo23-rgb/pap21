@@ -1,0 +1,5 @@
+RLCraft_DecentZombie,-3016,-3016,-3056,-3056
+RLCraft_UndergroundRuin3,-3018,-3010,-3059,-3051
+RLCraft_SmallUndergroundSkeleton,-2816,-2808,-3057,-3049
+RLCraft_Vineyard,-3032,-3004,-2954,-2934
+P_VillageLibrary,-3050,-3034,-2951,-2932

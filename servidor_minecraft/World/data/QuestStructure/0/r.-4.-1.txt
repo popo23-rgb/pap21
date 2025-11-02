@@ -1,0 +1,14 @@
+UndergroundCrypt,-2429,-2401,-980,-966
+P_WitchDungeon,-2404,-2370,-958,-941
+StoneBoulder,-2525,-2516,-983,-974
+RLCraft_SmallUndergroundSkeleton,-2559,-2551,-1004,-996
+AbandonedWoodTower,-2570,-2534,-998,-968
+StonePlantBoulder,-2342,-2332,-990,-980
+StonePlantBoulder,-2557,-2547,-953,-943
+StoneBoulder,-2318,-2309,-959,-950
+ShrineSmallAir,-2559,-2551,-950,-942
+RLCraft_FriendlyOutpost,-2521,-2453,-860,-821
+VillageLargeLibrary,-2366,-2347,-780,-760
+SeasonsGreenhouse,-2394,-2384,-766,-754
+P_Village2Story,-2300,-2294,-816,-803
+RLCraft_Vineyard,-2324,-2296,-794,-774

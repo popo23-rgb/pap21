@@ -1,0 +1,11 @@
+StonePlantMound4,-1161,-1154,5091,5098
+StoneLeafMound,-1176,-1169,5055,5064
+PeacefulCrypt,-1226,-1210,5045,5069
+StonePlantMound4,-1521,-1514,4848,4855
+StonePlantMound1,-1480,-1474,4924,4930
+RLCraft_PlainsCamp,-1546,-1507,4985,5031
+StonePlantMound1,-1471,-1465,4728,4734
+StonePlantMound,-1466,-1461,4762,4767
+SmallAbandonedMine,-1460,-1445,4841,4866
+StonePlantBoulder,-1454,-1444,4901,4911
+P_Tent,-1489,-1480,4616,4625

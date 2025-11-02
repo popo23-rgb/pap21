@@ -1,0 +1,12 @@
+P_Village2Story,-2576,-2570,-1545,-1532
+RLCraft_UndergroundFarm,-2672,-2629,-1579,-1537
+StonePlantMound2,-2588,-2575,-1622,-1610
+StonePlantBoulder,-2593,-2583,-1634,-1624
+StonePlantMound3,-2602,-2591,-1654,-1645
+WoodenClockTower,-2614,-2574,-1637,-1605
+StonePlantBoulder,-2733,-2723,-1672,-1662
+P_SpookyHouse,-2766,-2726,-1677,-1651
+StonePlantBoulder,-2696,-2686,-1697,-1687
+StonePlantMound1,-2732,-2726,-1726,-1720
+StoneLeafMound,-2718,-2711,-1589,-1580
+StonePlantBoulder,-2565,-2555,-1743,-1733

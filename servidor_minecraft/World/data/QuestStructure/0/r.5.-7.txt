@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,3035,3043,-3681,-3673
+RLCraft_SmallUndergroundSkeleton,3064,3072,-4008,-4000
+P_WitchDungeon,3006,3040,-3707,-3690
+StonePlantMound3,3010,3019,-3683,-3672

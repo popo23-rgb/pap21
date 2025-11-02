@@ -1,0 +1,5 @@
+P_LargeShip,2340,2400,5020,5038
+StonePlantBoulder,2234,2244,4881,4891
+WoodWallRemains,2458,2466,4858,4886
+StonePlantMound4,2402,2409,4819,4826
+StonePlantMound,2426,2431,4820,4825

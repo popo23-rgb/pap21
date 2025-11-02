@@ -1,0 +1,6 @@
+StoneIceBoulder1,-3028,-3018,1168,1178
+StoneIceBoulder2,-3032,-3023,1175,1184
+StoneIceBoulder3,-3061,-3051,1287,1297
+SmallWoodenCottage1,-2958,-2952,1071,1082
+RLCraft_DecentWitch,-2952,-2952,1275,1275
+RLCraft_UndergroundRuin3,-2957,-2949,1273,1281

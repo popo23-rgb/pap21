@@ -1,0 +1,9 @@
+SeasonsGreenhouse,-2291,-2279,3786,3796
+VillageLargeLibrary,-2310,-2290,3812,3831
+SmallWoodenCottage2,-2108,-2100,3891,3899
+RLCraft_DecentSkeleton,-2052,-2052,3881,3881
+RLCraft_UndergroundRuin2,-2057,-2047,3876,3883
+VillageMarketplace,-2314,-2300,3746,3760
+VillageForgeLarge,-2314,-2302,3786,3802
+VillageInn,-2339,-2319,3847,3874
+VillageWoodMill,-2341,-2328,3812,3828

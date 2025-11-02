@@ -1,0 +1,15 @@
+MysticalTree,-2074,-2058,4243,4258
+RLCraft_SmallUndergroundSkeleton,-2066,-2058,4309,4317
+StonePlantMound4,-2060,-2053,4380,4387
+DinosaurSkeleton,-2090,-2044,4119,4128
+StoneBoulder,-2103,-2094,4172,4181
+StonePlantMound2,-2115,-2103,4335,4348
+PeacefulCrypt,-2126,-2110,4357,4381
+StonePlantBoulder,-2132,-2122,4285,4295
+StoneBoulder,-2147,-2138,4378,4387
+StonePlantMound1,-2087,-2081,4507,4513
+StonePlantMound1,-2149,-2143,4202,4208
+StonePlantMound1,-2149,-2143,4305,4311
+ClayWaterMound,-2156,-2148,4313,4320
+StonePlantMound,-2166,-2161,4347,4352
+StonePlantBoulder,-2159,-2149,4407,4417

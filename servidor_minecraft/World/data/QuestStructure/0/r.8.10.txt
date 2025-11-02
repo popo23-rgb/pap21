@@ -1,0 +1,2 @@
+StonePlantMound1,4478,4484,5150,5156
+SmallFortRuins,4537,4569,5208,5238

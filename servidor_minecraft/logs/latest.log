@@ -1,0 +1,864 @@
+[00:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was pummeled by Behemophet  Lvl 7
+[00:00:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Wicked Treant
+[00:00:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Behemophet
+[00:00:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Wicked Treant
+[00:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus walked into fire whilst fighting Behemophet
+[00:01:04] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:01:04] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 170 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:01:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:01:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MomoDeviluke[/192.168.191.46:60681] logged in with entity id 2320488 at (-1817.9669551891209, 72.0, -3292.5946147434474)
+[00:01:05] [Server thread/INFO] [dsurround]: Player [MomoDeviluke] connected with Dynamic Surroundings 3.6.2.1
+[00:01:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke joined the game
+[00:01:05] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player MomoDeviluke
+[00:01:05] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: MomoDeviluke
+[00:01:05] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player MomoDeviluke
+[00:01:05] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player MomoDeviluke
+[00:01:05] [Server thread/INFO] [XAT]: Syncing Config to MomoDeviluke
+[00:01:05] [Thread-885/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5218c0a6-20e0-3b83-b265-5d7a969ee610.
+[00:01:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was pummeled by Behemophet  Lvl 7
+[00:01:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was pummeled by Behemophet
+[00:01:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Creative Mode]
+[00:02:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus walked into fire whilst fighting Behemophet  Lvl 7
+[00:02:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus walked into fire whilst fighting Behemophet  Lvl 7
+[00:03:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Set own game mode to Spectator Mode]
+[00:03:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Teleported XDCrisor to kassu]
+[00:04:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Set own game mode to Survival Mode]
+[00:04:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Survival Mode]
+[00:05:56] [Server thread/INFO] [morpheus]: kassu is now sleeping. 1/4 (25%)
+[00:06:00] [Server thread/INFO] [morpheus]: LazaRus is now sleeping. 2/4 (50%)
+[00:06:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: LazaRus moved wrongly!
+[00:06:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: kassu moved wrongly!
+[00:06:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: kassu moved too quickly! 7.040102450775066,0.0,7.3799495990460855
+[00:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Set MomoDeviluke's game mode to Survival Mode]
+[00:10:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kassu lost connection: Disconnected
+[00:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu left the game
+[00:12:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:12:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 169 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:13:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:13:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kassu[/192.168.191.55:49867] logged in with entity id 2348293 at (-1839.238383078233, 66.875, -3272.2143044503364)
+[00:13:01] [Server thread/INFO] [dsurround]: Player [kassu] connected with Dynamic Surroundings 3.6.2.1
+[00:13:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu joined the game
+[00:13:01] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player kassu
+[00:13:01] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: kassu
+[00:13:01] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player kassu
+[00:13:01] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player kassu
+[00:13:01] [Server thread/INFO] [XAT]: Syncing Config to kassu
+[00:13:01] [Thread-908/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 02efb01e-b574-3892-87d4-48f3acd72f6d.
+[00:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Teleported MomoDeviluke to LazaRus]
+[00:14:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: kassu moved too quickly! 3.126577964941589,-1.747796584898694,9.500429620344676
+[00:16:20] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@7df8903b)
+[00:16:20] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[00:16:20] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[00:16:20] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 478
+[00:16:20] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:16:20] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:16:20] [Server thread/INFO] [antiqueatlas]: Player MomoDeviluke left the overworld
+[00:16:20] [Server thread/INFO] [antiqueatlas]: Entering
+[00:16:20] [Server thread/INFO] [antiqueatlas]: Player MomoDeviluke teleported to the the_nether
+[00:16:34] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:16:34] [Server thread/INFO] [antiqueatlas]: Player XDCrisor left the overworld
+[00:16:34] [Server thread/INFO] [antiqueatlas]: Entering
+[00:16:34] [Server thread/INFO] [antiqueatlas]: Player XDCrisor teleported to the the_nether
+[00:16:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kassu lost connection: Disconnected
+[00:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu left the game
+[00:17:32] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[00:17:32] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 169 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:17:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:17:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kassu[/192.168.191.55:62382] logged in with entity id 2369144 at (-1788.3195871067794, 76.0, -3153.3684626088325)
+[00:17:34] [Server thread/INFO] [dsurround]: Player [kassu] connected with Dynamic Surroundings 3.6.2.1
+[00:17:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu joined the game
+[00:17:34] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player kassu
+[00:17:34] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: kassu
+[00:17:34] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player kassu
+[00:17:34] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player kassu
+[00:17:34] [Server thread/INFO] [XAT]: Syncing Config to kassu
+[00:17:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Set own game mode to Creative Mode]
+[00:18:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Ventoraptor  Lvl 4
+[00:18:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Set the time to 1000]
+[00:18:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Set own game mode to Survival Mode]
+[00:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Ventoraptor  Lvl 4
+[00:19:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Ventoraptor  Lvl 4
+[00:19:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MomoDeviluke lost connection: Disconnected
+[00:19:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke left the game
+[00:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Ventoraptor  Lvl 4
+[00:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Ventoraptor  Lvl 4
+[00:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Ventoraptor  Lvl 4
+[00:20:33] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:20:33] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 170 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:20:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:20:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MomoDeviluke[/192.168.191.46:61668] logged in with entity id 2387314 at (-247.69999998807907, 84.0, -363.95679455463176)
+[00:20:35] [Server thread/INFO] [dsurround]: Player [MomoDeviluke] connected with Dynamic Surroundings 3.6.2.1
+[00:20:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke joined the game
+[00:20:35] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player MomoDeviluke
+[00:20:35] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: MomoDeviluke
+[00:20:35] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player MomoDeviluke
+[00:20:35] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player MomoDeviluke
+[00:20:35] [Server thread/INFO] [XAT]: Syncing Config to MomoDeviluke
+[00:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke was pummeled by Apollyon
+[00:20:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:20:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDCrisor burned to death
+[00:20:54] [Thread-942/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for f06c4769-b548-34e4-b309-89bc2ebacceb.
+[00:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Set own game mode to Creative Mode]
+[00:21:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Creative Mode]
+[00:21:09] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[00:21:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:21:16] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@7df8903b)
+[00:21:16] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[00:21:16] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[00:21:16] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 619
+[00:21:16] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[00:21:16] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:21:16] [Server thread/INFO] [antiqueatlas]: Player MomoDeviluke left the overworld
+[00:21:16] [Server thread/INFO] [antiqueatlas]: Entering
+[00:21:16] [Server thread/INFO] [antiqueatlas]: Player MomoDeviluke teleported to the the_nether
+[00:21:17] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:21:17] [Server thread/INFO] [antiqueatlas]: Player XDCrisor left the overworld
+[00:21:17] [Server thread/INFO] [antiqueatlas]: Entering
+[00:21:17] [Server thread/INFO] [antiqueatlas]: Player XDCrisor teleported to the the_nether
+[00:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus was slain by Ventoraptor  Lvl 4
+[00:23:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: XDCrisor moved too quickly! -10.808966038314509,0.0,-1.3231693298139362
+[00:24:19] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:24:19] [Server thread/INFO] [antiqueatlas]: Player XDCrisor left the the_nether
+[00:24:19] [Server thread/INFO] [antiqueatlas]: Entering
+[00:24:19] [Server thread/INFO] [antiqueatlas]: Player XDCrisor teleported to the overworld
+[00:24:29] [Server thread/INFO] [antiqueatlas]: Exiting
+[00:24:29] [Server thread/INFO] [antiqueatlas]: Player MomoDeviluke left the the_nether
+[00:24:29] [Server thread/INFO] [antiqueatlas]: Entering
+[00:24:29] [Server thread/INFO] [antiqueatlas]: Player MomoDeviluke teleported to the overworld
+[00:24:44] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[00:24:44] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:25:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Survival Mode]
+[00:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Set own game mode to Survival Mode]
+[00:27:32] [Server thread/INFO] [ISeeDragons]: ATTEMPTING TO PATCH  com.github.alexthe666.iceandfire.item.ItemGorgonHead$1!
+[00:27:32] [Server thread/INFO] [ISeeDragons]: Applying patch [HookGorgonHead] Hook ItemGorganHead$1 to stop some entities from getting stoned
+[00:27:32] [Server thread/INFO] [ISeeDragons]: Writing class com.github.alexthe666.iceandfire.item.ItemGorgonHead$1 with flags FRAMES
+[00:28:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kassu lost connection: Disconnected
+[00:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu left the game
+[00:28:25] [Server thread/INFO] [morpheus]: MomoDeviluke is now sleeping. 1/3 (33%)
+[00:28:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MomoDeviluke moved wrongly!
+[00:28:35] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:28:35] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 169 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:28:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:28:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kassu[/192.168.191.55:56470] logged in with entity id 2474506 at (-1777.300000011921, 85.0, -3156.1853988906755)
+[00:28:37] [Server thread/INFO] [dsurround]: Player [kassu] connected with Dynamic Surroundings 3.6.2.1
+[00:28:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu joined the game
+[00:28:37] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player kassu
+[00:28:37] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: kassu
+[00:28:37] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player kassu
+[00:28:37] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player kassu
+[00:28:37] [Server thread/INFO] [XAT]: Syncing Config to kassu
+[00:29:57] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:29:57] [Server thread/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at com.github.alexthe666.iceandfire.item.ItemGorgonHead.func_77615_a(ItemGorgonHead.java:112) [ItemGorgonHead.class:?]
+	at net.minecraft.item.ItemStack.func_77974_b(ItemStack.java:548) [aip.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_184597_cx(EntityLivingBase.java:2816) [vp.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:666) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:40) [lp.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerDigging.func_148833_a(SourceFile:10) [lp.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+[00:31:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Teleported kassu to MomoDeviluke]
+[00:32:42] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player kassu)
+[00:35:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDCrisor lost connection: Timed out
+[00:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDCrisor left the game
+[00:39:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Set the time to 1000]
+[00:42:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: LazaRus lost connection: Disconnected
+[00:42:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus left the game
+[00:43:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:43:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 170 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[00:43:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:43:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: LazaRus[/192.168.191.143:62806] logged in with entity id 2584572 at (-1839.300000011921, 27.0, -3313.699999988079)
+[00:43:21] [Server thread/INFO] [dsurround]: Player [LazaRus] connected with Dynamic Surroundings 3.6.2.1
+[00:43:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus joined the game
+[00:43:21] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player LazaRus
+[00:43:21] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: LazaRus
+[00:43:21] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player LazaRus
+[00:43:21] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player LazaRus
+[00:43:21] [Server thread/INFO] [XAT]: Syncing Config to LazaRus
+[00:43:22] [Thread-990/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 39c0878b-71eb-3a4b-98b4-57f3b51fb728.
+[00:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Teleported LazaRus to MomoDeviluke]
+[00:48:48] [Server thread/INFO] [morpheus]: MomoDeviluke is now sleeping. 1/3 (33%)
+[00:48:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MomoDeviluke moved wrongly!
+[00:49:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: LazaRus lost connection: Disconnected
+[00:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: LazaRus left the game
+[00:54:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Creative Mode]
+[00:55:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Survival Mode]
+[00:59:21] [Server thread/INFO] [morpheus]: MomoDeviluke is now sleeping. 1/2 (50%)
+[00:59:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MomoDeviluke moved wrongly!
+[01:05:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kassu lost connection: Disconnected
+[01:05:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu left the game
+[01:05:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Creative Mode]
+[01:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Survival Mode]
+[01:07:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Creative Mode]
+[01:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Survival Mode]
+[01:09:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MomoDeviluke lost connection: Disconnected
+[01:09:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke left the game
+[01:13:12] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:13:12] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 169 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[01:13:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:13:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: kassu[/192.168.191.55:61450] logged in with entity id 2645305 at (-1835.750034450342, 73.0, -3268.3198915989437)
+[01:13:13] [Server thread/INFO] [dsurround]: Player [kassu] connected with Dynamic Surroundings 3.6.2.1
+[01:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu joined the game
+[01:13:13] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player kassu
+[01:13:13] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: kassu
+[01:13:13] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player kassu
+[01:13:13] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player kassu
+[01:13:13] [Server thread/INFO] [XAT]: Syncing Config to kassu
+[01:13:13] [Thread-1033/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 02efb01e-b574-3892-87d4-48f3acd72f6d.
+[01:14:44] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:14:44] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 170 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[01:14:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:14:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDCrisor[/192.168.191.31:63105] logged in with entity id 2647407 at (-1833.9583702778434, 32.0, -3310.892650669117)
+[01:14:44] [Server thread/INFO] [dsurround]: Player [XDCrisor] connected with Dynamic Surroundings 3.6.2.1
+[01:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDCrisor joined the game
+[01:14:44] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player XDCrisor
+[01:14:44] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: XDCrisor
+[01:14:44] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player XDCrisor
+[01:14:44] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player XDCrisor
+[01:14:44] [Server thread/INFO] [XAT]: Syncing Config to XDCrisor
+[01:14:45] [Thread-1038/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for f06c4769-b548-34e4-b309-89bc2ebacceb.
+[01:15:28] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[01:15:28] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 170 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[01:15:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:15:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MomoDeviluke[/192.168.191.46:64740] logged in with entity id 2648796 at (-1826.0267761885036, 72.0, -3277.9613587295885)
+[01:15:29] [Server thread/INFO] [dsurround]: Player [MomoDeviluke] connected with Dynamic Surroundings 3.6.2.1
+[01:15:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke joined the game
+[01:15:29] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player MomoDeviluke
+[01:15:29] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: MomoDeviluke
+[01:15:29] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player MomoDeviluke
+[01:15:29] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player MomoDeviluke
+[01:15:29] [Server thread/INFO] [XAT]: Syncing Config to MomoDeviluke
+[01:15:29] [Thread-1042/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:281]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 5218c0a6-20e0-3b83-b265-5d7a969ee610.
+[01:15:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Teleported MomoDeviluke to XDCrisor]
+[01:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDCrisor has made the advancement [Withering Heights]
+[01:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke has made the advancement [Withering Heights]
+[01:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu has made the advancement [Withering Heights]
+[01:15:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MomoDeviluke lost connection: Disconnected
+[01:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke left the game
+[01:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Teleported kassu to XDCrisor]
+[01:16:07] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[01:16:07] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 170 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[01:16:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:16:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MomoDeviluke[/192.168.191.46:64775] logged in with entity id 2650314 at (-1828.093593230571, 32.0, -3315.7005750109815)
+[01:16:12] [Server thread/INFO] [dsurround]: Player [MomoDeviluke] connected with Dynamic Surroundings 3.6.2.1
+[01:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke joined the game
+[01:16:12] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player MomoDeviluke
+[01:16:12] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: MomoDeviluke
+[01:16:12] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player MomoDeviluke
+[01:16:12] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player MomoDeviluke
+[01:16:12] [Server thread/INFO] [XAT]: Syncing Config to MomoDeviluke
+[01:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke withered away
+[01:16:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Creative Mode]
+[01:17:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Teleported MomoDeviluke to kassu]
+[01:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Teleported XDCrisor to kassu]
+[01:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDCrisor withered away
+[01:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Survival Mode]
+[01:19:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke withered away
+[01:19:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Teleported MomoDeviluke to kassu]
+[01:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke was blown up by Tremor  Lvl 3
+[01:20:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu withered away
+[01:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Creative Mode]
+[01:20:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Teleported MomoDeviluke to XDCrisor]
+[01:21:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu was slain by Wraamon  Lvl 3
+[01:21:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu was slain by Wraamon  Lvl 3
+[01:21:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Set own game mode to Creative Mode]
+[01:21:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Set own game mode to Creative Mode]
+[01:21:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Set own game mode to Survival Mode]
+[01:21:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDCrisor withered away
+[01:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Set own game mode to Creative Mode]
+[01:22:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: kassu moved too quickly! 1.6947863909315402,-2.1001934658541828,9.662202752487701
+[01:24:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Survival Mode]
+[01:25:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDCrisor: Set own game mode to Survival Mode]
+[01:25:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDCrisor lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[01:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDCrisor left the game
+[01:25:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [MomoDeviluke: Set own game mode to Creative Mode]
+[01:26:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [kassu: Set own game mode to Survival Mode]
+[01:28:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MomoDeviluke lost connection: Disconnected
+[01:28:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke left the game
+[01:28:43] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[01:28:43] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 170 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.2,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.4,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.0,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.8,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.2,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,morpheus@1.12.2-3.5.106,snowrealmagic@0.6.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.7,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.2,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,resourceloader@1.5.3,lycanitesmobs@2.0.8.5 - MC 1.12.2,bountiful@2.2.3,blockoverlayfix@1.0.0,roguelike@2.4.1,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@0.05,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,spartanweaponry@1.4.1,itemphysic@1.4.0,msic@1.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.3,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.27,setbonus@1.12.2.020,ctgui@1.0.0,dldungeonsjbg@1.14.10,advanced-fishing@1.3.3,rltweaker@0.5.1,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2,mujmajnkraftsbettersurvival@1.4.1,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@1.5.6,xat@0.31.4,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,firstaid@1.6.20,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.1.4,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.1,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,entity_culling@4.2.5,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.3,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,anvilpatch@1.1.1,srparasites@1.9.1,spawnercontrol@1.6.3b,shieldbreak@1.0.1,antiqueatlasoverlay@1.2,foamfix@0.10.14-1.12.2,aquaculture@1.6.8,tnt_utilities_core@1.2.3,craftablehorsearmour@1.3,collisiondamage@1.2.1,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[01:28:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:28:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MomoDeviluke[/192.168.191.46:65413] logged in with entity id 2675957 at (-1832.300000011921, 33.30442479556961, -3307.300000011921)
+[01:28:45] [Server thread/INFO] [dsurround]: Player [MomoDeviluke] connected with Dynamic Surroundings 3.6.2.1
+[01:28:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke joined the game
+[01:28:45] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player MomoDeviluke
+[01:28:45] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: MomoDeviluke
+[01:28:45] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player MomoDeviluke
+[01:28:45] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player MomoDeviluke
+[01:28:45] [Server thread/INFO] [XAT]: Syncing Config to MomoDeviluke
+[01:29:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: kassu lost connection: Disconnected
+[01:29:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: kassu left the game
+[01:30:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MomoDeviluke lost connection: Disconnected
+[01:30:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MomoDeviluke left the game
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.bone
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.dyePowder.black
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.itemSquid
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.itemCookedBatWing
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.itemSquid
+[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.dyePowder.black
+[01:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:30:38] [Server thread/INFO] [AUW]: Stopping DS...
+[01:30:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:30:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:30:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:30:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[01:30:38] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[01:30:38] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:30:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:30:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:30:38] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

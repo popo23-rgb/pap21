@@ -1,0 +1,13 @@
+SmallOutpost,162,184,502,532
+StonePlantMound1,207,213,514,520
+StoneLeafMound,414,423,532,539
+RLCraft_DecentSpider,409,409,562,562
+RLCraft_UndergroundRuin2,404,414,560,567
+StonePlantMound2,495,508,541,553
+StonePlantMound1,294,300,570,576
+StonePlantMound,351,356,591,596
+StonePlantMound,491,496,584,589
+StonePlantBoulder,448,458,607,617
+SmallAbandonedMine,235,250,589,614
+SmallAbandonedMine,388,413,594,609
+StoneBoulder,332,341,598,607

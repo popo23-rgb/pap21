@@ -1,0 +1,29 @@
+{
+  "nameCache:9": {
+    "0:10": {
+      "name:8": "kassu",
+      "isOP:1": 1,
+      "uuid:8": "02efb01e-b574-3892-87d4-48f3acd72f6d"
+    },
+    "1:10": {
+      "name:8": "LazaRus",
+      "isOP:1": 0,
+      "uuid:8": "39c0878b-71eb-3a4b-98b4-57f3b51fb728"
+    },
+    "2:10": {
+      "name:8": "MomoDeviluke",
+      "isOP:1": 1,
+      "uuid:8": "5218c0a6-20e0-3b83-b265-5d7a969ee610"
+    },
+    "3:10": {
+      "name:8": "XDCrisor",
+      "isOP:1": 1,
+      "uuid:8": "f06c4769-b548-34e4-b309-89bc2ebacceb"
+    },
+    "4:10": {
+      "name:8": "lazarus",
+      "isOP:1": 0,
+      "uuid:8": "f09ed4e1-9f98-3cd8-8168-acc34ab6367c"
+    }
+  }
+}

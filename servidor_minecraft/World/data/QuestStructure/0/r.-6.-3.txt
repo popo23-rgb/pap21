@@ -1,0 +1,5 @@
+ShrineSmallFire,-3237,-3227,-1990,-1980
+RLCraft_BasicCaveSpider,-3253,-3253,-1990,-1990
+RLCraft_UndergroundRuin1,-3256,-3247,-1993,-1984
+RLCraft_FriendlyOutpost,-3285,-3217,-2007,-1968
+RLCraft_SmallUndergroundSkeleton,-3327,-3319,-2036,-2028

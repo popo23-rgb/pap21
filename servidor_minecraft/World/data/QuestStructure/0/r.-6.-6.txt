@@ -1,0 +1,2 @@
+SmallFortRuinsJapanese,-3125,-3079,-3225,-3179
+UndergroundCultChamber,-3221,-3179,-3429,-3397

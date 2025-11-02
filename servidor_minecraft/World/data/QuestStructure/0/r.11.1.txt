@@ -1,0 +1,3 @@
+StonePlantMound,5667,5672,926,931
+RLCraft_BasicSpider,5685,5685,999,999
+RLCraft_UndergroundRuin1,5682,5691,996,1005

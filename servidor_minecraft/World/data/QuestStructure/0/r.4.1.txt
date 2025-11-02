@@ -1,0 +1,3 @@
+RLCraft_BasicCaveSpider,2468,2468,642,642
+RLCraft_UndergroundRuin1,2462,2471,639,648
+P_SmallShip,2402,2422,708,714

@@ -1,0 +1,4 @@
+NetherThorn3,-160,-142,-545,-519
+NetherThorn4,-172,-152,-604,-582
+NetherThorn4,-98,-78,-589,-567
+NetherThorn5,-446,-435,-581,-556

@@ -1,0 +1,10 @@
+ChurchGraveyardRuins,-2325,-2282,2269,2316
+RLCraft_SmallUndergroundSkeleton,-2278,-2270,2377,2385
+StonePlantBoulder,-2291,-2281,2393,2403
+RLCraft_DecentSkeleton,-2304,-2304,2405,2405
+RLCraft_UndergroundRuin3,-2307,-2299,2399,2407
+StonePlantMound1,-2288,-2282,2405,2411
+StoneLeafMound,-2101,-2094,2342,2351
+StonePlantBoulder,-2101,-2091,2424,2434
+StonePlantBoulder,-2067,-2057,2283,2293
+StonePlantMound2,-2450,-2438,2422,2435

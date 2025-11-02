@@ -1,0 +1,9 @@
+RLCraft_DecentSpider,4088,4088,552,552
+RLCraft_UndergroundRuin2,4083,4093,547,554
+StonePlantMound,4091,4096,555,560
+StonePlantMound,4093,4098,602,607
+JokerTower,4078,4086,627,635
+StonePlantMound2,4031,4043,612,625
+StonePlantMound2,3986,3998,531,544
+StonePlantMound1,3950,3956,544,550
+StonePlantMound3,3794,3805,721,730

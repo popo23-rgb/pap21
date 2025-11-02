@@ -1,0 +1,15 @@
+StonePlantMound,-1740,-1735,-3066,-3061
+StonePlantMound2,-1927,-1915,-3007,-2994
+RLCraft_BasicCaveSpider,-2025,-2025,-2959,-2959
+RLCraft_UndergroundRuin1,-2031,-2022,-2965,-2956
+StonePlantMound2,-1921,-1909,-2934,-2921
+StoneBoulder,-1854,-1845,-2916,-2907
+ShrineSmallAir,-1801,-1793,-2926,-2918
+MonolythHoly,-2038,-2024,-2836,-2822
+RLCraft_BasicZombie,-1629,-1629,-2981,-2981
+RLCraft_UndergroundRuin1,-1635,-1626,-2984,-2975
+StonePlantMound2,-1648,-1636,-2955,-2942
+StonePlantMound3,-1706,-1697,-2911,-2900
+StonePlantMound4,-1610,-1603,-2920,-2913
+StonePlantBoulder,-1584,-1574,-2924,-2914
+DinosaurSkull,-1561,-1542,-3006,-2995

@@ -1,0 +1,6 @@
+MeteorSite,-1497,-1467,-3717,-3702
+FallenPalmTree,-1477,-1467,-3674,-3670
+RLCraft_DecentCaveSpider,-1405,-1405,-3709,-3709
+RLCraft_UndergroundRuin3,-1411,-1403,-3714,-3706
+RLCraft_DecentZombie,-1386,-1386,-3843,-3843
+RLCraft_UndergroundRuin2,-1391,-1381,-3845,-3838

@@ -1,0 +1,2 @@
+RLCraft_BasicZombie,1820,1820,-2422,-2422
+RLCraft_UndergroundRuin1,1814,1823,-2425,-2416

@@ -1,0 +1,7 @@
+BigClockworkSite,-1362,-1327,472,517
+BlazeSpawnerCrystal,-1436,-1430,508,514
+ClayWaterMound1,-1264,-1254,361,372
+RLCraft_DecentWitch,-1440,-1440,407,407
+RLCraft_UndergroundRuin3,-1442,-1434,402,410
+RLCraft_DecentSpider,-1158,-1158,231,231
+RLCraft_UndergroundRuin2,-1163,-1153,226,233

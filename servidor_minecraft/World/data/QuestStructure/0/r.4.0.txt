@@ -1,0 +1,2 @@
+StoneBoulder,2359,2368,505,514
+Tree_Oak_TheMushroomOak_v3,2336,2386,420,479

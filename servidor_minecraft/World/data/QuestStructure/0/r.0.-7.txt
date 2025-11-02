@@ -1,0 +1,11 @@
+SmallOutpost,-13,9,-3748,-3718
+DinosaurSkull,71,82,-3723,-3704
+StoneBoulder,229,238,-3693,-3684
+ForestBeacon,280,288,-3640,-3632
+StonePlantMound,309,314,-3598,-3593
+RLCraft_BasicWitch,-38,-38,-3868,-3868
+RLCraft_UndergroundRuin1,-44,-35,-3871,-3862
+StonePlantMound3,147,158,-3910,-3901
+PeacefulCrypt,-74,-50,-3831,-3815
+RLCraft_DecentSkeleton,30,30,-3980,-3980
+RLCraft_UndergroundRuin3,24,32,-3983,-3975

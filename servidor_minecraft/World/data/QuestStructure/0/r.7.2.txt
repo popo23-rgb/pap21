@@ -1,0 +1,5 @@
+RLCraft_BasicZombie,3783,3783,1323,1323
+RLCraft_UndergroundRuin1,3777,3786,1317,1326
+RLCraft_BasicWitch,3621,3621,1085,1085
+RLCraft_UndergroundRuin1,3615,3624,1082,1091
+DesertBeacon,3799,3805,1379,1385
